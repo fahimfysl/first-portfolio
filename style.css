@@ -1,0 +1,77 @@
+body{
+    font-family: 'Exo 2', sans-serif;
+
+}
+h1{
+    font-size: 75px;
+}
+.highlight{
+    color: orange;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    width: 100%;
+}
+section{
+    height: 400px;
+    padding-bottom: 300px;
+    padding-top: 150px;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, tomato, orange);
+}
+#middle{
+    font-size: 50px;
+    text-align: center;
+    color: gray;
+    padding-bottom: 50px;
+}
+.one-third{
+        width: 23%;
+        float: left;
+        margin-left: 5%;
+        padding-top: 3%;
+        padding-left: 3%;
+        align-items: center;
+}
+.one-third img{
+    width: 86%;
+    align-items: center;
+}
+.box{
+    box-shadow: 3px 3px 20px gray;
+    border-radius: 10px;
+    height: 75%;
+}
+.works{
+    color: lightslategray;
+}
+.para{
+    padding-bottom: 30px;
+    font-weight: 500;
+    font-size: 25px;
+}
+.footer{
+    text-align: center;
+    padding-bottom: 40px;
+    color: gray;
+}
+.footer img{
+    width: 2.5%;
+    margin: .5%;
+        padding-bottom: 3%;
+}
+.footer-para{
+    font-size: 50px;
+    color: black;
+}
